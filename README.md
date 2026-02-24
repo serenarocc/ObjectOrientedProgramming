@@ -1,6 +1,6 @@
 # TV Series Database Manager 
 
-A Java-based backend system designed to manage a comprehensive database of streaming services, TV series, actors, and user reviews. This project focuses on **Object-Oriented Programming (OOP)**, data integrity, and custom business logic.
+A Java-based backend system designed to manage a database of streaming services, TV series, actors, and user reviews. This project focuses on **Object-Oriented Programming (OOP)**, data integrity, and custom business logic.
 
 ---
 
